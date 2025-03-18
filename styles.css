@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #180b02;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto:rgb(13, 63, 172);
+    --alto-contraste-texto:rgb(2, 6, 14);
     --alto-contraste-link: #0c0b02;
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #130b08;
+    background-color: #f7f2f1;
     border: none;
     font-weight: bold;
 }
