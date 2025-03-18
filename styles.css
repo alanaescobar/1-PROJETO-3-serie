@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #090152;
+    --laranja-claro: #0b0a11;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto:rgb(2, 6, 14);
     --alto-contraste-link: #0c0b02;
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #13050c;
+    background-color: #f5edf1;
 }
 .menu-acessibilidade{
     position: fixed;
